@@ -1,1 +1,1 @@
-Hi I am Uttkarsh Tewari and a freshman at UCSC majoring in computer science!
+Hi I am Uttkarsh Tewari and a freshman at UCSC majoring in computer science! I have experience in Python (check out my public Python projects repository!), and currently working on an HTML/CSS/JS web project. 
