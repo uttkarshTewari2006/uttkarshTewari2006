@@ -1,1 +1,1 @@
-Hi I am Uttkarsh Tewari and a freshman at UCSC majoring in computer science! I have experience in Python (check out my public Python projects repository!), and currently working on an HTML/CSS/JS web project. 
+I am Uttkarsh Tewari and a freshman at UCSC majoring in computer science! I have experience in full stack development (HTML, css, js, React, tailwind, material UI, next.js and firebase), as well as data science (python, numpy, pandas skitlearn). Check out my projects for my experience!
